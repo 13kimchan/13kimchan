@@ -33,6 +33,7 @@ while True:
 	time.sleep(3)
 
 '''
+#movemouse2.py
 #打印鼠标实时绝对坐标
 import pyautogui
 import time
